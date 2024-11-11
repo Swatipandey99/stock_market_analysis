@@ -35,8 +35,7 @@ consumer demographics, competitive analysis, etc.
 scatter plots to visualize various aspects of the data.
 
 
-Dashboard: [https://github.com/Swatipandey99/stock_market_analysis/blob/main/Dashboard%201%20(2).png
-](https://public.tableau.com/app/profile/swati.pandey3244/viz/stockmarketanalysis_17308182290760/Dashboard1)
+Dashboard interaction :https://public.tableau.com/app/profile/swati.pandey3244/viz/stockmarketanalysis_17308182290760/Dashboard1
 
 Dashboard : ![Dashboard 1 (2)](https://github.com/user-attachments/assets/dd1cc6bd-6c65-4f78-91a6-305d6b23fede)
 
